@@ -1,5 +1,5 @@
 name = "newsnow"  # 你的项目名称
-main = "src/index.js" 
+main = "src/main.tsx" 
 type = "javascript"
 
 [[d1_databases]]
