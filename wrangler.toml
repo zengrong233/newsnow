@@ -1,4 +1,5 @@
 name = "newsnow"  # 你的项目名称
+main = "./src/index.ts"
 type = "javascript"
 
 [[d1_databases]]
